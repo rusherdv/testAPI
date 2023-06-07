@@ -1,0 +1,3360 @@
+{
+    "teams": [
+        {
+          "team_name": "Bayern Munich",
+          "team_league": "bundesliga",
+          "team_badge": "https://apiv3.apifootball.com/badges/72_bayern-munich.jpg",
+          "players": [
+            {
+              "player_name": "Manuel Neuer",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Sven Ulreich",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Yann Sommer",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Johannes Schenk",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Dayot Upamecano",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "De Ligt",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Benjamin Pavard",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Bouna Sarr",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Lucas Hernandez",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Joao Cancelo",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Daley Blind",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Justin Janitzek",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Gabriel Marusic",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Noussair Mazraoui",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Liam Morrison",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Josip Stanisic",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Joshua Kimmich",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Leon Goretzka",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Paul Wanner",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Ryan Gravenberch",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Aleksandar Pavlovic",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Arijon Ibrahimovic",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Serge Gnabry",
+              "player_pos": "RW"
+              },
+              {
+              "player_name": "Leroy Sane",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "Kingsley Coman",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "Maxim Choupo Moting",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Sadio Mane",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "Alphonso Davies",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Thomas Muller",
+              "player_pos": "CAM"
+              },
+              {
+              "player_name": "Mathys Tel",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Jamal Musiala",
+              "player_pos": "CAM"
+              }
+          ]
+        },
+        {
+          "team_name": "Ajax",
+          "team_league": "eredivise",
+          "team_badge": "https://logodownload.org/wp-content/uploads/2018/09/ajax-logo-escudo.png",
+          "players": [
+            {
+            "player_name": "Dusan Tadic",
+            "player_pos": "CAM"
+            },
+            {
+            "player_name": "Devyne Rensch",
+            "player_pos": "RB"
+            },
+            {
+            "player_name": "Kenneth Taylor",
+            "player_pos": "CB"
+            },
+            {
+            "player_name": "Mohammed Kudus",
+            "player_pos": "CM"
+            },
+            {
+            "player_name": "Maarten Stekelenburg",
+            "player_pos": "GK"
+            },
+            {
+            "player_name": "Davy Klaassen",
+            "player_pos": "CM"
+            },
+            {
+            "player_name": "Jurrien Timber",
+            "player_pos": "CB"
+            },
+            {
+            "player_name": "Edson Alvarez",
+            "player_pos": "CB"
+            },
+            {
+            "player_name": "Remko Pasveer",
+            "player_pos": "GK"
+            },
+            {
+            "player_name": "Steven Berghuis",
+            "player_pos": "RW"
+            },
+            {
+            "player_name": "Kian Fitz-Jim",
+            "player_pos": "CM"
+            },
+            {
+            "player_name": "Youri Baas",
+            "player_pos": "CB"
+            },
+            {
+            "player_name": "Ahmetcan Kaplan",
+            "player_pos": "GK"
+            },
+            {
+            "player_name": "Lorenzo Lucca",
+            "player_pos": "CM"
+            },
+            {
+            "player_name": "Calvin Bassey",
+            "player_pos": "LB"
+            },
+            {
+            "player_name": "Youri Regeer",
+            "player_pos": "CB"
+            },
+            {
+            "player_name": "Owen Wijndal",
+            "player_pos": "LB"
+            },
+            {
+            "player_name": "Steven Bergwijn",
+            "player_pos": "LW"
+            },
+            {
+            "player_name": "Francisco Conceição",
+            "player_pos": "RW"
+            },
+            {
+            "player_name": "Brian Brobbey",
+            "player_pos": "ST"
+            },
+            {
+            "player_name": "Florian Grillitsch",
+            "player_pos": "CM"
+            }
+          ]
+        },
+        {
+            "team_name": "Real Madrid",
+            "team_league": "laliga",
+            "team_badge": "https://apiv3.apifootball.com/badges/76_real-madrid.jpg",
+            "players": [
+              {
+                "player_name": "Thibaut Courtois",
+                "player_pos": "GK"
+                },
+                {
+                "player_name": "Andriy Lunin",
+                "player_pos": "GK"
+                },
+                {
+                "player_name": "Dani Carvajal",
+                "player_pos": "RB"
+                },
+                {
+                "player_name": "Éder Militão",
+                "player_pos": "CB"
+                },
+                {
+                "player_name": "David Alaba",
+                "player_pos": "CB"
+                },
+                {
+                "player_name": "Jesús Vallejo",
+                "player_pos": "CB"
+                },
+                {
+                "player_name": "Álvaro Odriozola",
+                "player_pos": "RB"
+                },
+                {
+                "player_name": "Lucas Vázquez",
+                "player_pos": "RM"
+                },
+                {
+                "player_name": "Antonio Rüdiger",
+                "player_pos": "CB"
+                },
+                {
+                "player_name": "Ferland Mendy",
+                "player_pos": "LB"
+                },
+                {
+                "player_name": "Toni Kroos",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Luka Modric",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Eduardo Camavinga",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Federico Valverde",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Aurélien Tchouameni",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Dani Ceballos",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Vinicius Junior",
+                "player_pos": "LW"
+                },
+                {
+                "player_name": "Rodrygo",
+                "player_pos": "RW"
+                }
+            ]
+        },
+        {
+          "team_name": "Atletico Madrid",
+          "team_league": "laliga",
+          "team_badge": "https://apiv3.apifootball.com/badges/73_atletico-madrid.jpg",
+          "players": [
+            {
+              "player_name": "GRBIC",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "OBLAK",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "JOSE GIMeNEZ",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "REGUILoN",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "DOHERTY",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "SAVIC",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "MOLINA",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "MARIo HERMOSO",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "REINILDO",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "KONDOGBIA",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "RODRIGO DE PAUL",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "KOKE",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "LEMAR",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "MARCOS LLORENTE",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "SAUL",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "WITSEL",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "CARRASCO",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "BARRIOS",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Antoine GRIEZMANN",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "MEMPHIS",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "CORREA",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "MORATA",
+              "player_pos": "ST"
+              }
+          ]
+        },
+        {
+          "team_name": "Milan",
+          "team_league": "seriea",
+          "team_badge": "",
+          "players": [
+              {
+                "player_name": "Mike Maignan",
+                "player_pos": "GK"
+                },
+                {
+                "player_name": "Antonio Mirante",
+                "player_pos": "GK"
+                },
+                {
+                "player_name": "Ciprian Tatarusanu",
+                "player_pos": "GK"
+                },
+                {
+                "player_name": "Lucas Vázquez",
+                "player_pos": "RB"
+                },
+                {
+                "player_name": "Fode Ballo-Touré",
+                "player_pos": "LB"
+                },
+                {
+                "player_name": "Davide Calabria",
+                "player_pos": "RB"
+                },
+                {
+                "player_name": "Sergiño Dest",
+                "player_pos": "RB"
+                },
+                {
+                "player_name": "Alessandro Florenzi",
+                "player_pos": "RB"
+                },
+                {
+                "player_name": "Matteo Gabbia",
+                "player_pos": "CB"
+                },
+                {
+                "player_name": "Theo Hernandez",
+                "player_pos": "LB"
+                },
+                {
+                "player_name": "Simon Kjær",
+                "player_pos": "CB"
+                },
+                {
+                "player_name": "Timothée Pembele",
+                "player_pos": "CB"
+                },
+                {
+                "player_name": "Fikayo Tomori",
+                "player_pos": "CB"
+                },
+                {
+                "player_name": "Yacine Adli",
+                "player_pos": "CAM"
+                },
+                {
+                "player_name": "Tiemoué Bakayoko",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Ismael Bennacer",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Brahim Diaz",
+                "player_pos": "CAM"
+                },
+                {
+                "player_name": "Rade Krunic",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Tommaso Pobega",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Alexis Saelemaekers",
+                "player_pos": "RW"
+                },
+                {
+                "player_name": "Ibrahim Tanli",
+                "player_pos": "LW"
+                },
+                {
+                "player_name": "Yari Verschaeren",
+                "player_pos": "CAM"
+                },
+                {
+                "player_name": "Charles De Ketelaere",
+                "player_pos": "CAM"
+                },
+                {
+                "player_name": "Olivier Giroud",
+                "player_pos": "ST"
+                },
+                {
+                "player_name": "Rafael Leão",
+                "player_pos": "ST"
+                },
+                {
+                "player_name": "João Pedro Cavaco Cancelo",
+                "player_pos": "GK"
+                },
+                {
+                "player_name": "Divock Origi",
+                "player_pos": "ST"
+                },
+                {
+                "player_name": "Ante Rebic",
+                "player_pos": "ST"
+                }
+            ]
+        },
+        {
+            "team_name": "Roma",
+            "team_league": "seriea",
+            "team_badge": "",
+            "players": [
+              {
+                "player_name": "Paulo Dybala",
+                "player_pos": "ST"
+                },
+                {
+                "player_name": "Tammy Abraham",
+                "player_pos": "ST"
+                },
+                {
+                "player_name": "Stephan El Shaarawy",
+                "player_pos": "LW"
+                },
+                {
+                "player_name": "Andrea Belotti",
+                "player_pos": "ST"
+                },
+                {
+                "player_name": "Hugo Solbakken",
+                "player_pos": "GK"
+                },
+                {
+                "player_name": "Lorenzo Pellegrini",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Nicolò Zalewski",
+                "player_pos": "CAM"
+                },
+                {
+                "player_name": "Bryan Cristante",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Nemanja Matic",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Georginio Wijnaldum",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Filippo Bove",
+                "player_pos": "CAM"
+                },
+                {
+                "player_name": "Bryan Cristante",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Mohamed Camara",
+                "player_pos": "CDM"
+                },
+                {
+                "player_name": "Ebrima Darboe",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Alberto Tahirovic",
+                "player_pos": "ST"
+                },
+                {
+                "player_name": "Matteo Volpato",
+                "player_pos": "GK"
+                },
+                {
+                "player_name": "Chris Smalling",
+                "player_pos": "CB"
+                },
+                {
+                "player_name": "Rick Karsdorp",
+                "player_pos": "RB"
+                },
+                {
+                "player_name": "Leonardo Spinazzola",
+                "player_pos": "LB"
+                },
+                {
+                "player_name": "Roger Ibañez",
+                "player_pos": "CB"
+                },
+                {
+                "player_name": "Ozan Çelik",
+                "player_pos": "RB"
+                },
+                {
+                "player_name": "Gianluca Mancini",
+                "player_pos": "CB"
+                },
+                {
+                "player_name": "Marash Kumbulla",
+                "player_pos": "CB"
+                },
+                {
+                "player_name": "Diego Llorente",
+                "player_pos": "CB"
+                },
+                {
+                "player_name": "Rui Patrício",
+                "player_pos": "GK"
+                },
+                {
+                "player_name": "Lennart Moser",
+                "player_pos": "GK"
+                },
+                {
+                "player_name": "Mile Svilar",
+                "player_pos": "GK"
+                }
+            ]
+        },
+        {
+            "team_name": "Inter",
+            "team_league": "seriea",
+            "team_badge": "https://apiv3.apifootball.com/badges/79_inter-milan.jpg",
+            "players": [
+              {
+                "player_name": "Samir Handanovic",
+                "player_pos": "GK"
+                },
+                {
+                "player_name": "Alex Cordaz",
+                "player_pos": "GK"
+                },
+                {
+                "player_name": "André Onana",
+                "player_pos": "GK"
+                },
+                {
+                "player_name": "Stefan de Vrij",
+                "player_pos": "CB"
+                },
+                {
+                "player_name": "Francesco Acerbi",
+                "player_pos": "CB"
+                },
+                {
+                "player_name": "Federico Dimarco",
+                "player_pos": "LB"
+                },
+                {
+                "player_name": "Danilo D'Ambrosio",
+                "player_pos": "RB"
+                },
+                {
+                "player_name": "Matteo Darmian",
+                "player_pos": "RB"
+                },
+                {
+                "player_name": "Milan Skriniar",
+                "player_pos": "CB"
+                },
+                {
+                "player_name": "Lorenzo Zanotti",
+                "player_pos": "RB"
+                },
+                {
+                "player_name": "Giuseppe Fontanarosa",
+                "player_pos": "LB"
+                },
+                {
+                "player_name": "Alessandro Bastoni",
+                "player_pos": "CB"
+                },
+                {
+                "player_name": "Denzel Dumfries",
+                "player_pos": "RB"
+                },
+                {
+                "player_name": "Roberto Gagliardini",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Robin Gosens",
+                "player_pos": "LW"
+                },
+                {
+                "player_name": "Davide Bellanova",
+                "player_pos": "RB"
+                },
+                {
+                "player_name": "Ledian Asllani",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Hakan Calhanoglu",
+                "player_pos": "CAM"
+                },
+                {
+                "player_name": "Henrikh Mkhitaryan",
+                "player_pos": "CAM"
+                },
+                {
+                "player_name": "Nicolo Barella",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Riccardo Carboni",
+                "player_pos": "LB"
+                },
+                {
+                "player_name": "Marcelo Brozovic",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Edin Dzeko",
+                "player_pos": "ST"
+                },
+                {
+                "player_name": "Lautaro Martinez",
+                "player_pos": "ST"
+                },
+                {
+                "player_name": "Joaquín Correa",
+                "player_pos": "ST"
+                },
+                {
+                "player_name": "Romelu Lukaku",
+                "player_pos": "ST"
+                }
+            ]
+          },
+        {
+            "team_name": "Real Sociedad",
+            "team_league": "laliga",
+            "team_badge": "https://assets.stickpng.com/images/584ad36ab519ea740933a8d3.png",
+            "players": [
+               {
+                "player_name": "A. Sola",
+                "player_pos": "ST"
+                },
+                {
+                "player_name": "Zubeldia",
+                "player_pos": "CB"
+                },
+                {
+                "player_name": "Aritz",
+                "player_pos": "CB"
+                },
+                {
+                "player_name": "Aihen",
+                "player_pos": "LB"
+                },
+                {
+                "player_name": "Rico",
+                "player_pos": "GK"
+                },
+                {
+                "player_name": "Gorosabel",
+                "player_pos": "RB"
+                },
+                {
+                "player_name": "Pacheco",
+                "player_pos": "GK"
+                },
+                {
+                "player_name": "Le Normand",
+                "player_pos": "CB"
+                },
+                {
+                "player_name": "Zubimendi",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Illarra",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Merino",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Guevara",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Navarro",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Silva",
+                "player_pos": "CAM"
+                },
+                {
+                "player_name": "Turrientes",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Brais Mendez",
+                "player_pos": "RW"
+                },
+                {
+                "player_name": "Barrene",
+                "player_pos": "CB"
+                },
+                {
+                "player_name": "Carlos Fdez",
+                "player_pos": "RW"
+                },
+                {
+                "player_name": "Oyarzabal",
+                "player_pos": "LW"
+                },
+                {
+                "player_name": "Cho",
+                "player_pos": "LW"
+                },
+                {
+                "player_name": "Take",
+                "player_pos": "RW"
+                },
+                {
+                "player_name": "Sorloth",
+                "player_pos": "ST"
+                },
+                {
+                "player_name": "Sadiq",
+                "player_pos": "ST"}
+            ]
+        },
+        {
+          "team_name": "Aston Villa",
+          "team_league": "premierleague",
+          "team_badge": "https://logodownload.org/wp-content/uploads/2019/10/aston-villa-logo-1.png",
+          "players": [
+            {
+              "player_name": "Emiliano Martinez",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Viljami Sinisalo",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Robin Olsen",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Oliwier Zych",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "James Wright",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Matty Cash",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Ezri Konsa",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Tyrone Mings",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Calum Chambers",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Ashley Young",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Lucas Digne",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Diego Carlos",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "alex Moreno",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Sebastian Revan",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Sil Swinkels",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Douglas Luiz",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "John McGinn",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Emiliano Buendia",
+              "player_pos": "RW"
+              },
+              {
+              "player_name": "Jacob Ramsey",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Tommi O'Reilly",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Jaden Philogene",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "Boubacar Kamara",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Philippe Coutinho",
+              "player_pos": "CAM"
+              },
+              {
+              "player_name": "Leander Dendoncker",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Kadan Young",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Travis Patterson",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Ollie Watkins",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Bertrand Traore",
+              "player_pos": "RW"
+              },
+              {
+              "player_name": "Leon Bailey",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "Jhon Duran",
+              "player_pos": "ST"
+              }
+          ]
+        },
+        {
+            "team_name": "Arsenal",
+            "team_league": "premierleague",
+            "team_badge": "https://upload.wikimedia.org/wikipedia/hif/8/82/Arsenal_FC.png",
+            "players": [
+                {
+                    "player_name": "Aaron Ramsdale",
+                    "player_pos": "GK"
+                    },
+                    {
+                    "player_name": "Matt Turner",
+                    "player_pos": "GK"
+                    },
+                    {
+                    "player_name": "Karl Hein",
+                    "player_pos": "GK"
+                    },
+                    {
+                    "player_name": "James Hillson",
+                    "player_pos": "GK"
+                    },
+                    {
+                    "player_name": "Kieran Tierney",
+                    "player_pos": "LB"
+                    },
+                    {
+                    "player_name": "Ben White",
+                    "player_pos": "CB"
+                    },
+                    {
+                    "player_name": "Gabriel Magalhães",
+                    "player_pos": "CB"
+                    },
+                    {
+                    "player_name": "Rob Holding",
+                    "player_pos": "CB"
+                    },
+                    {
+                    "player_name": "Takehiro Tomiyasu",
+                    "player_pos": "CB"
+                    },
+                    {
+                    "player_name": "William Saliba",
+                    "player_pos": "CB"
+                    },
+                    {
+                    "player_name": "Lino Sousa",
+                    "player_pos": "RB"
+                    },
+                    {
+                    "player_name": "Reuell Walters",
+                    "player_pos": "RB"
+                    },
+                    {
+                    "player_name": "Jakub Kiwior",
+                    "player_pos": "CM"
+                    },
+                    {
+                    "player_name": "Thomas Partey",
+                    "player_pos": "CM"
+                    },
+                    {
+                    "player_name": "Bukayo Saka",
+                    "player_pos": "LW"
+                    },
+                    {
+                    "player_name": "Martin Ødegaard",
+                    "player_pos": "CAM"
+                    },
+                    {
+                    "player_name": "Emile Smith Rowe",
+                    "player_pos": "CM"
+                    },
+                    {
+                    "player_name": "Mohamed Elneny",
+                    "player_pos": "CM"
+                    },
+                    {
+                    "player_name": "Granit Xhaka",
+                    "player_pos": "CM"
+                    },
+                    {
+                    "player_name": "Fábio Vieira",
+                    "player_pos": "CM"
+                    },
+                    {
+                    "player_name": "Oleksandr Zinchenko",
+                    "player_pos": "LB"
+                    },
+                    {
+                    "player_name": "Amario Cozier-Duberry",
+                    "player_pos": "CM"
+                    },
+                    {
+                    "player_name": "Catalin Cirjan",
+                    "player_pos": "CM"
+                    },
+                    {
+                    "player_name": "Ethan Nwaneri",
+                    "player_pos": "CB"
+                    },
+                    {
+                    "player_name": "Bradley Ibrahim",
+                    "player_pos": "CM"
+                    },
+                    {
+                    "player_name": "Matt Smith",
+                    "player_pos": "CM"
+                    },
+                    {
+                    "player_name": "Jorginho",
+                    "player_pos": "CM"
+                    },
+                    {
+                    "player_name": "Mauro Bandeira",
+                    "player_pos": "CAM"
+                    },
+                    {
+                    "player_name": "Eddie Nketiah",
+                    "player_pos": "ST"
+                    },
+                    {
+                    "player_name": "Gabriel Martinelli",
+                    "player_pos": "ST"
+                    },
+                    {
+                    "player_name": "Gabriel Jesus",
+                    "player_pos": "ST"
+                    },
+                    {
+                    "player_name": "Reiss Nelson",
+                    "player_pos": "RW"
+                    },
+                    {
+                    "player_name": "Khayon Edwards",
+                    "player_pos": "ST"
+                    },
+                    {
+                    "player_name": "Charles Sagoe Junior",
+                    "player_pos": "ST"
+                    },
+                    {
+                    "player_name": "Leandro Trossard",
+                    "player_pos": "LW"
+                    }
+            ]
+          },
+          {
+            "team_name": "Newcastle",
+            "team_league": "premierleague",
+            "team_badge": "https://upload.wikimedia.org/wikipedia/hif/2/25/Newcastle_United_Logo.png",
+            "players": [
+                {
+                    "player_name": "Martin Dúbravka",
+                    "player_pos": "GK"
+                    },
+                    {
+                    "player_name": "Mark Gillespie",
+                    "player_pos": "GK"
+                    },
+                    {
+                    "player_name": "Nick Pope",
+                    "player_pos": "GK"
+                    },
+                    {
+                    "player_name": "Loris Karius",
+                    "player_pos": "GK"
+                    },
+                    {
+                    "player_name": "Paul Dummett",
+                    "player_pos": "LB"
+                    },
+                    {
+                    "player_name": "Fabian Schär",
+                    "player_pos": "CB"
+                    },
+                    {
+                    "player_name": "Jamaal Lascelles",
+                    "player_pos": "CB"
+                    },
+                    {
+                    "player_name": "Jamal Lewis",
+                    "player_pos": "LB"
+                    },
+                    {
+                    "player_name": "Kieran Trippier",
+                    "player_pos": "RB"
+                    },
+                    {
+                    "player_name": "Emil Krafth",
+                    "player_pos": "RB"
+                    },
+                    {
+                    "player_name": "Javier Manquillo",
+                    "player_pos": "RB"
+                    },
+                    {
+                    "player_name": "Dan Burn",
+                    "player_pos": "CB"
+                    },
+                    {
+                    "player_name": "Sven Botman",
+                    "player_pos": "CB"
+                    },
+                    {
+                    "player_name": "Matt Targett",
+                    "player_pos": "LB"
+                    },
+                    {
+                    "player_name": "Harrison Ashby",
+                    "player_pos": "RB"
+                    },
+                    {
+                    "player_name": "Matt Ritchie",
+                    "player_pos": "LM"
+                    },
+                    {
+                    "player_name": "Ryan Fraser",
+                    "player_pos": "RM"
+                    },
+                    {
+                    "player_name": "Jacob Murphy",
+                    "player_pos": "RM"
+                    },
+                    {
+                    "player_name": "Miguel Almirón",
+                    "player_pos": "CM"
+                    },
+                    {
+                    "player_name": "Joe Willock",
+                    "player_pos": "CM"
+                    },
+                    {
+                    "player_name": "Sean Longstaff",
+                    "player_pos": "CM"
+                    },
+                    {
+                    "player_name": "Bruno Guimarães",
+                    "player_pos": "CM"
+                    },
+                    {
+                    "player_name": "Elliot Anderson",
+                    "player_pos": "CM"
+                    },
+                    {
+                    "player_name": "Matty Longstaff",
+                    "player_pos": "CM"
+                    },
+                    {
+                    "player_name": "Lewis Miley",
+                    "player_pos": "CM"
+                    },
+                    {
+                    "player_name": "Joelinton",
+                    "player_pos": "ST"
+                    },
+                    {
+                    "player_name": "Callum Wilson",
+                    "player_pos": "ST"
+                    },
+                    {
+                    "player_name": "Allan Saint-Maximin",
+                    "player_pos": "LW"
+                    },
+                    {
+                    "player_name": "Alexander Isak",
+                    "player_pos": "ST"
+                    },
+                    {
+                    "player_name": "Garang Kuol",
+                    "player_pos": "ST"
+                    },
+                    {
+                    "player_name": "Anthony Gordon",
+                    "player_pos": "RW"
+                    }
+            ]
+          },
+        {
+            "team_name": "Brighton",
+            "team_league": "premierleague",
+            "team_badge": "https://logodownload.org/wp-content/uploads/2019/10/brighton-hove-albion-logo-1.png",
+            "players": [
+                {
+                "player_name": "Robert Sánchez",
+                "player_pos": "GK"
+                },
+                {
+                "player_name": "Jason Steele",
+                "player_pos": "GK"
+                },
+                {
+                "player_name": "Tom McGill",
+                "player_pos": "GK"
+                },
+                {
+                "player_name": "Tariq Lamptey",
+                "player_pos": "RB"
+                },
+                {
+                "player_name": "Adam Webster",
+                "player_pos": "CB"
+                },
+                {
+                "player_name": "Lewis Dunk",
+                "player_pos": "CB"
+                },
+                {
+                "player_name": "Joël Veltman",
+                "player_pos": "CB"
+                },
+                {
+                "player_name": "Matt Clarke",
+                "player_pos": "CB"
+                },
+                {
+                "player_name": "Jan Paul van Hecke",
+                "player_pos": "CB"
+                },
+                {
+                "player_name": "Levi Colwill",
+                "player_pos": "CB"
+                },
+                {
+                "player_name": "Pervis Estupián",
+                "player_pos": "LB"
+                },
+                {
+                "player_name": "James Furlong",
+                "player_pos": "LB"
+                },
+                {
+                "player_name": "Odeluga Offiah",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Imari Samuels",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Alexis Mac Allister",
+                "player_pos": "CAM"
+                },
+                {
+                "player_name": "Pascal Groß",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Adam Lallana",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Jakub Moder",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Solly March",
+                "player_pos": "LW"
+                },
+                {
+                "player_name": "Moisés Caicedo",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Kaoru Mitoma",
+                "player_pos": "RW"
+                },
+                {
+                "player_name": "Jack Hinchy",
+                "player_pos": "ST"
+                },
+                {
+                "player_name": "Cameron Peupion",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Andrew Moran",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Billy Gilmour",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Jack Hinshelwood",
+                "player_pos": "CM"
+                },
+                {
+                "player_name": "Facundo Buonanotte",
+                "player_pos": "CAM"
+                },
+                {
+                "player_name": "Yasin Ayari",
+                "player_pos": "ST"
+                },
+                {
+                "player_name": "Danny Welbeck",
+                "player_pos": "ST"
+                },
+                {
+                "player_name": "Jeremy Sarmiento",
+                "player_pos": "RW"
+                },
+                {
+                "player_name": "Julio Enciso",
+                "player_pos": "ST"
+                },
+                {
+                "player_name": "Deniz Undav",
+                "player_pos": "ST"
+                },
+                {
+                "player_name": "Evan Ferguson",
+                "player_pos": "ST"}
+            ]
+          },
+        {
+          "team_name": "Manchester City",
+          "team_league": "premierleague",
+          "team_badge": "https://apiv3.apifootball.com/badges/80_manchester-city.jpg",
+          "players": [
+            {
+                "player_name": "Ederson",
+                "player_pos": "GK"
+            },
+            {
+                "player_name": "Scott Carson",
+                "player_pos": "GK"
+            },
+            {
+                "player_name": "Stefan Ortega",
+                "player_pos": "GK"
+            },
+            {
+                "player_name": "Kyle Walker",
+                "player_pos": "RB"
+            },
+            {
+                "player_name": "Ruben Dias",
+                "player_pos": "CB"
+            },
+            {
+                "player_name": "John Stones",
+                "player_pos": "CB"
+            },
+            {
+                "player_name": "Nathan Ake",
+                "player_pos": "CB"
+            },
+            {
+                "player_name": "Aymeric Laporte",
+                "player_pos": "CB"
+            },
+            {
+                "player_name": "Rico Lewis",
+                "player_pos": "LB"
+            },
+            {
+                "player_name": "Manuel Akanji",
+                "player_pos": "CB"
+            },
+            {
+                "player_name": "Ilkay Gündogan",
+                "player_pos": "CM"
+            },
+            {
+                "player_name": "Jack Grealish",
+                "player_pos": "LW"
+            },
+            {
+                "player_name": "Rodri",
+                "player_pos": "CM"
+            },
+            {
+                "player_name": "Kevin De Bruyne",
+                "player_pos": "CM"
+            },
+            {
+                "player_name": "Bernardo Silva",
+                "player_pos": "CM"
+            },
+            {
+                "player_name": "Phil Foden",
+                "player_pos": "CM"
+            },
+            {
+                "player_name": "Cole Palmer",
+                "player_pos": "CM"
+            },
+            {
+                "player_name": "Kalvin Phillips",
+                "player_pos": "CM"
+            },
+            {
+                "player_name": "Yangel Herrera",
+                "player_pos": "CM"
+            },
+            {
+                "player_name": "Sergio Gomez",
+                "player_pos": "CM"
+            },
+            {
+                "player_name": "Morgan Rogers",
+                "player_pos": "CM"
+            },
+            {
+                "player_name": "Nico O'Reilly",
+                "player_pos": "CM"
+            },
+            {
+                "player_name": "Shea Charles",
+                "player_pos": "CM"
+            },
+            {
+                "player_name": "Alex Robertson",
+                "player_pos": "CM"
+            },
+            {
+                "player_name": "Maximo Perrone",
+                "player_pos": "CM"
+            },
+            {
+                "player_name": "Riyad Mahrez",
+                "player_pos": "RW"
+            },
+            {
+                "player_name": "Erling Haaland",
+                "player_pos": "ST"
+            },
+            {
+                "player_name": "Julian alvarez",
+                "player_pos": "ST"
+            }
+          
+          ]
+        },
+        {
+          "team_name": "Manchester United",
+          "team_league": "premierleague",
+          "team_badge": "https://logodownload.org/wp-content/uploads/2016/10/manchester-united-logo-0.png",
+          "players": [
+            {
+                "player_name": "David de Gea",
+                "player_pos": "GK"
+            },
+            {
+                "player_name": "Tom Heaton",
+                "player_pos": "GK"
+            },
+            {
+                "player_name": "Radek Větek",
+                "player_pos": "GK"
+            },
+            {
+                "player_name": "Nathan Bishop",
+                "player_pos": "GK"
+            },
+            {
+                "player_name": "Jack Butland",
+                "player_pos": "GK"
+            },
+            {
+                "player_name": "Victor Lindelöf",
+                "player_pos": "CB"
+            },
+            {
+                "player_name": "Phil Jones",
+                "player_pos": "CB"
+            },
+            {
+                "player_name": "Harry Maguire",
+                "player_pos": "CB"
+            },
+            {
+                "player_name": "Raphaël Varane",
+                "player_pos": "CB"
+            },
+            {
+                "player_name": "Diogo Dalot",
+                "player_pos": "RB"
+            },
+            {
+                "player_name": "Luke Shaw",
+                "player_pos": "LB"
+            },
+            {
+                "player_name": "Aaron Wan-Bissaka",
+                "player_pos": "RB"
+            },
+            {
+                "player_name": "Tyrell Malacia",
+                "player_pos": "LB"
+            },
+            {
+                "player_name": "Lisandro Martinez",
+                "player_pos": "CB"
+            },
+            {
+                "player_name": "Marc Jurado",
+                "player_pos": "RB"
+            },
+            {
+                "player_name": "Rhys Bennett",
+                "player_pos": "CB"
+            },
+            {
+                "player_name": "Brandon Williams",
+                "player_pos": "LB"
+            },
+            {
+                "player_name": "Fred",
+                "player_pos": "CM"
+            },
+            {
+                "player_name": "Bruno Fernandes",
+                "player_pos": "CAM"
+            },
+            {
+                "player_name": "Scott McTominay",
+                "player_pos": "CM"
+            },
+            {
+                "player_name": "Facundo Pellistri",
+                "player_pos": "CAM"
+            },
+            {
+                "player_name": "Donny Beek",
+                "player_pos": "CM"
+            },
+            {
+                "player_name": "Christian Eriksen",
+                "player_pos": "CAM"
+            },
+            {
+                "player_name": "Casemiro",
+                "player_pos": "CM"
+            },
+            {
+                "player_name": "Zidane Iqbal",
+                "player_pos": "CAM"
+            },
+            {
+                "player_name": "Kobbie Mainoo",
+                "player_pos": "CM"
+            },
+            {
+                "player_name": "Marcel Sabitzer",
+                "player_pos": "CAM"
+            },
+            {
+                "player_name": "Alejandro Garnacho",
+                "player_pos": "CAM"
+            },
+            {
+                "player_name": "Marcus Rashford",
+                "player_pos": "ST"
+            },
+            {
+                "player_name": "Jadon Sancho",
+                "player_pos": "RW"
+            },
+            {
+                "player_name": "Anthony Elanga",
+                "player_pos": "LW"
+            },
+            {
+                "player_name": "Anthony Martial",
+                "player_pos": "ST"
+            },
+            {
+                "player_name": "Antony",
+                "player_pos": "RW"
+            },
+            {
+                "player_name": "Wout Weghorst",
+                "player_pos": "ST"
+            },
+            {
+                "player_name": "Amad Diallo",
+                "player_pos": "RW"
+            }]
+        },
+        {
+          "team_name": "Marseille",
+          "team_league": "ligue1",
+          "team_badge": "https://apiv3.apifootball.com/badges/83_marseille.jpg",
+          "players": [
+            {
+              "player_name": "Simon NGAPANDOUENTNBU",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Pau LOPEZ",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Ruben BLANCO",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Jelle VAN NECK",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Eric BAILLY",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Samuel GIGOT",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Leonardo BALERDI",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Jonathan CLAUSS",
+              "player_pos": "RM"
+              },
+              {
+              "player_name": "Sead KOLASINAC",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Issa KABORE",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Nuno TAVARES",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Aaron NASSUR",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Roggerio NYAKOSSI",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Chancel MBEMBA",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Brice NEGOUAI",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Matteo GUENDOUZI",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Azzedine OUNAHI",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Dimitri PAYET",
+              "player_pos": "CAM"
+              },
+              {
+              "player_name": "Ruslan MALINOVSKYI",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Valentin RONGIER",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Jordan VERETOUT",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Paolo SCIORTINO",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Bilal NADIR",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Bartug ELMAZ",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Amine HARIT",
+              "player_pos": "CAM"
+              },
+              {
+              "player_name": "Amay CAPRICE",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Jores RAHOU",
+              "player_pos": "CAM"
+              },
+              {
+              "player_name": "Kabiru IDRIS",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Nassim AHMED",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Rayan HASSAD",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Soumaila TRAORE",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "VITINHA",
+              "player_pos": "CAM"
+              },
+              {
+              "player_name": "Cengiz UNDER",
+              "player_pos": "RW"
+              },
+              {
+              "player_name": "Esey GEBREYESUS",
+              "player_pos": "RW"
+              },
+              {
+              "player_name": "Aylan BENYAHIA TANI",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Alexis SANCHEZ",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Emmanuel Israel Ange LAGO",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Emran SOGLO",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Enzo STERNAL",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Francois Regis MUGHE",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "RUIZ DELGADO",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Sayha SEHA",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "SIDI ALI",
+              "player_pos": "CM"
+              }
+          ]
+        },
+        {
+          "team_name": "Liverpool",
+          "team_league": "premierleague",
+          "team_badge": "https://apiv3.apifootball.com/badges/84_liverpool.jpg",
+          "players": [
+            {
+              "player_name": "Alisson",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Adrian",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Caoimhin Kelleher",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Harvey Davies",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Van Dijk",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Ibrahima Konate",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Joe Gomez",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Konstantinos Tsimikas",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Andrew Robertson",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Joël Matip",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Trent Alexander Arnold",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Calvin Ramsay",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Nathaniel Phillips",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Luke Chambers",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Rhys Williams",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Fabinho",
+              "player_pos": "CDM"
+              },
+              {
+              "player_name": "Thiago Alcântara",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "James Milner",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Naby Keïta",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Jordan Henderson",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Alex Oxlade Chamberlain",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Curtis Jones",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Harvey Elliott",
+              "player_pos": "RW"
+              },
+              {
+              "player_name": "Fabio Carvalho",
+              "player_pos": "CAM"
+              },
+              {
+              "player_name": "Stefan Bajcetic",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Bobby Clark",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Arthur",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Melkamu Frauendorf",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Roberto Firmino",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Mohamed Salah",
+              "player_pos": "RW"
+              },
+              {
+              "player_name": "Diogo Jota",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Luis Diaz",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "Darwin Nuñez",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Ben Doak",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Layton Stewart",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Cody Gakpo",
+              "player_pos": "LW"
+              }
+          ]
+        },
+        {
+          "team_name": "Chelsea",
+          "team_league": "premierleague",
+          "team_badge": "https://apiv3.apifootball.com/badges/88_chelsea.jpg",
+          "players": [
+            {
+              "player_name": "Kepa Arrizabalaga",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "edouard Mendy",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Gabriel Slonina",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Marcus Bettinelli",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Lucas Bergström",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Ethan Wady",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Thiago Silva",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Reece James",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Cesar Azpilicueta",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Kalidou Koulibaly",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Marc Cucurella",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Ben Chilwell",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Wesley Fofana",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Alfie Gilchrist",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Trevoh Chalobah",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Ben Chilwell",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Benoît Badiashile",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "N'Golo Kante",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Mateo Kovacic",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Christian Pulisic",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "Ruben Loftus Cheek",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Mason Mount",
+              "player_pos": "CAM"
+              },
+              {
+              "player_name": "Hakim Ziyech",
+              "player_pos": "RW"
+              },
+              {
+              "player_name": "Kai Havertz",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Conor Gallagher",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Harvey Vale",
+              "player_pos": "CAM"
+              },
+              {
+              "player_name": "Carney Chukwuemeka",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Denis Zakaria",
+              "player_pos": "CDM"
+              },
+              {
+              "player_name": "Omari Hutchinson",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "Lewis Hall",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Mykhailo Mudryk",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Enzo Fernandez",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Armando Broja",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Raheem Sterling",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "Pierre Emerick Aubameyang",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "David Datro Fofana",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "João Felix",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Noni Madueke",
+              "player_pos": "RW"
+              },
+              {
+              "player_name": "Noni Madueke",
+              "player_pos": "RW"
+              }
+          ]
+        },
+        {
+          "team_name": "Sevilla",
+          "team_league": "laliga",
+          "team_badge": "https://apiv3.apifootball.com/badges/89_sevilla.jpg",
+          "players": [
+            {
+              "player_name": "Bono",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Marko Dmitrovic",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Jesus Navas",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Marcao",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Nianzou",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Acuña",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Karim Rekik",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Gonzalo Montiel",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Alex Telles",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Badu",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Rakitic",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Papu Gomez",
+              "player_pos": "CAM"
+              },
+              {
+              "player_name": "Jordan",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Oliver Torres",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Fernando",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Pape Gueye",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Gudelj",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Rafa Mir",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Lucas Ocampos",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "En-Nesyri",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Suso",
+              "player_pos": "RW"
+              },
+              {
+              "player_name": "Lamela",
+              "player_pos": "RW"
+              },
+              {
+              "player_name": "Tecatito",
+              "player_pos": "RW"
+              },
+              {
+              "player_name": "Bryan Gil",
+              "player_pos": "LW"
+              }
+          ]
+        },
+        {
+          "team_name": "Borussia Dortmund",
+          "team_league": "bundesliga",
+          "team_badge": "https://apiv3.apifootball.com/badges/92_borussia-dortmund.jpg",
+          "players": [
+            {
+              "player_name": "Gregor Kobel",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Silas Ostrzinski",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Alexander Meyer",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Marcel Laurenz Lotka",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Luca Unbehaun",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Mario Suver",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Mateu Morey",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Guille Bueno",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Nico Schlotterbeck",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Nico Schulz",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Mats Hummels",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Marius Wolf",
+              "player_pos": "RM"
+              },
+              {
+              "player_name": "Thomas Meunier",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Niklas Sule",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Julian Ryerson",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Marcel Schmelzer",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Tom Rothe",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Lion Semic",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Prince Aning",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Soumaila Coulibaly",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Antonios Papadopoulos",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Michel Simon Ludwig",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Noa Gabriel Simic",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Salih Ozcan",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Giovanni Reyna",
+              "player_pos": "CAM"
+              },
+              {
+              "player_name": "Mahmoud Dahoud",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Raphael Guerreiro",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Julian Brandt",
+              "player_pos": "CAM"
+              },
+              {
+              "player_name": "Donyell Malen",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Jude Bellingham",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Emre Can",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Karim Adeyemi",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Felix Passlack",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Abdoulaye Kamara",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Falko Michel",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Goktan Gurpuz",
+              "player_pos": "CAM"
+              },
+              {
+              "player_name": "Marco Pasalic",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Ole Pohlmann",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Can Hayri Ozkan",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Michael Eberwein",
+              "player_pos": "CAM"
+              },
+              {
+              "player_name": "Sebastian Haller",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Marco Reus",
+              "player_pos": "CAM"
+              },
+              {
+              "player_name": "Julien Duranville",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Youssoufa Moukoko",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Anthony Modeste",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Jamie Bynoe-Gittens",
+              "player_pos": "RW"
+              },
+              {
+              "player_name": "Julian Rijkhoff",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Justin Njinmah",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Samuel Bamba",
+              "player_pos": "ST"
+              }
+          ]
+        },
+        {
+          "team_name": "PSG",
+          "team_league": "ligue1",
+          "team_badge": "https://logodownload.org/wp-content/uploads/2017/02/psg-logo-escudo-paris-saint-germain.png",
+          "players": [
+            {
+              "player_name": "Sergio RICO",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Lucas LAVALLEE",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Alexandre LETELLIER",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Gianluigi DONNARUMMA",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Louis MOUQUET",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Mathyas RANDRIAMAMY",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Achraf HAKIMI",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Presnel KIMPEMBE",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Sergio RAMOS",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "MARQUINHOS",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Juan BERNAT",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Nuno MENDES",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Nordi MUKIELE",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Timothee PEMBELE",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Chadaille BITSHIABU",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Nehemiah FERNANDEZ VELIZ",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Hugo LAMY",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Teddy ALLOH",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Vimoj MUNTUWAMUNGU",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Younes EL HANNACH",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Marco VERRATTI",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Fabian RUIZ",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Danilo PEREIRA",
+              "player_pos": "CDM"
+              },
+              {
+              "player_name": "VITINHA",
+              "player_pos": "CAM"
+              },
+              {
+              "player_name": "Renato SANCHES",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Carlos SOLER",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Warren ZAIRE EMERY",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Ismael GHARBI",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Kylian MBAPPE",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "NEYMAR Junior",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "Lionel MESSI",
+              "player_pos": "RW"
+              },
+              {
+              "player_name": "Hugo EKITIKE",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Djeidi GASSAMA",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Samuel NOIREAU DAURIAT",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Noha LEMINA",
+              "player_pos": "CM"
+              }
+          ]
+        },
+        {
+          "team_name": "RB Leipzig",
+          "team_league": "bundesliga",
+          "team_badge": "https://logodownload.org/wp-content/uploads/2019/11/rb-leipzig-logo.png",
+          "players": [
+            {
+              "player_name": "Gulacsi",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Nyland",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Blaswich",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Nickisch",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Schlieck",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Simakan",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Orban",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Klostermann",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Halstenberg",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Sanoussy Ba",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Gvardiol",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Diallo",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Henrichs",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Haidara",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Forsberg",
+              "player_pos": "CAM"
+              },
+              {
+              "player_name": "Szoboszlai",
+              "player_pos": "CAM"
+              },
+              {
+              "player_name": "Christopher Nkunku",
+              "player_pos": "CAM"
+              },
+              {
+              "player_name": "Raum",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "Schlager",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Laimer",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Clark",
+              "player_pos": "CAM"
+              },
+              {
+              "player_name": "Kampl",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Dani Olmo",
+              "player_pos": "CAM"
+              },
+              {
+              "player_name": "Poulsen",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Timo Werner",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Andre Silva",
+              "player_pos": "ST"
+              }
+          ]
+        },
+        {
+          "team_name": "Bayer Leverkusen",
+          "team_league": "bundesliga",
+          "team_badge": "https://apiv3.apifootball.com/badges/143_bayer-leverkusen.jpg",
+          "players": [
+            {
+              "player_name": "Hradecký",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Pentz",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Lomb",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Lunev",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Neutgens",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Hincapie",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Jonathan Tah",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Bakker",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Kossounou",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Tapsoba",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Sinkgraven",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Fosu-Mensah",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Frimpong",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Monamay",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Andrich",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Demirbay",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Amiri",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Mbamba",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "Palacios",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Wirtz",
+              "player_pos": "CAM"
+              },
+              {
+              "player_name": "Azhil",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "Eze",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "Kohl",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "Aourir",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "Azmoun",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Schick",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Hudson-Odoi",
+              "player_pos": "RW"
+              },
+              {
+              "player_name": "Diaby",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "Adli",
+              "player_pos": "CAM"
+              },
+              {
+              "player_name": "Hložek",
+              "player_pos": "RW"
+              },
+              {
+              "player_name": "Bellarabi",
+              "player_pos": "RW"
+              }
+          ]
+        },
+        {
+          "team_name": "PSV",
+          "team_league": "eredivise",
+          "team_badge": "https://apiv3.apifootball.com/badges/150_psv.jpg",
+          "players": [
+            {
+              "player_name": "Walter Benitez",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Joel Drommel",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Boy Waterman",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Kjell Peersman",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Jordan Teze",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Armando Obispo",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Andre Ramalho",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Mauro Junior",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "Olivier Boscagli",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Jarrad Branthwaite",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Phillipp Mwene",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Patrick van Aanholt",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Ibrahim Sangare",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Xavi Simons",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "erick Gutierrez",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Guus Til",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Joey Veerman",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Fabio Silva",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Thorgan Hazard",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "Luuk de Jong",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Anwar El Ghazi",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "Ismael Saibari",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Johan Bakayoko",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Savio",
+              "player_pos": "ST"
+              }
+          ]
+        },
+        {
+          "team_name": "Napoli",
+          "team_league": "seriea",
+          "team_badge": "https://apiv3.apifootball.com/badges/152_napoli.jpg",
+          "players": [
+            {
+              "player_name": "Alex Meret",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Davide Marfella",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Hubert Dawid Idasiak",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Valerio Boffelli",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Pierluigi Gollini",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Min-Jae Kim",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Juan Jesus",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Mario Rui",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Amir Rrahmani",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Mathias Olivera",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Bartosz Bereszynski",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Giovanni Di Lorenzo",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Daniel Hysaj",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Leo Skiri Ostigard",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Diego Demme",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Piotr Zielinski",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Matteo Marchisano",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Karim Zedadka",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Alessandro Spavone",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Stanislav Lobotka",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Gianluca Gaetano",
+              "player_pos": "CAM"
+              },
+              {
+              "player_name": "Lorenzo Russo",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Tanguy Ndombele",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Franck Zambo",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Andre Zambo Anguissa",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Elif Elmas",
+              "player_pos": "CAM"
+              },
+              {
+              "player_name": "Victor Osimhen",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Hirving Lozano",
+              "player_pos": "RW"
+              },
+              {
+              "player_name": "Giovanni Simeone",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Matteo Politano",
+              "player_pos": "RW"
+              },
+              {
+              "player_name": "Alessio Zerbin",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Khvicha Kvaratskhelia",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "Giacomo Raspadori",
+              "player_pos": "ST"
+              }
+          ]
+        },
+        {
+          "team_name": "Tottenham Hotspur",
+          "team_league": "premierleague",
+          "team_badge": "https://apiv3.apifootball.com/badges/164_tottenham-hotspur.jpg",
+          "players": [
+            {
+              "player_name": "Hugo Lloris",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Brandon Austin",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Fraser Forster",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Alfie Whiteman",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Cristian Romero",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Davinson Sanchez",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Emerson Royal",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Eric Dier",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Japhet Tanganga",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Ben Davies",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "Clement Lenglet",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Charlie Sayers",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Marqes Muir",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Malachi Fagan-Walcott",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Maksim Paskotsi",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "Alfie Dorrington",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Kallum Cesay",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Pedro Porro",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "Pierre-Emile Højbjerg",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Ryan Sessegnon",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "Dejan Kulusevski",
+              "player_pos": "RW"
+              },
+              {
+              "player_name": "Oliver Skipp",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Rodrigo Bentancur",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Matthew Craig",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Ivan Perisic",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "Yves Bissouma",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Pape Sarr",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Nile John",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Alfie Devine",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Romaine Mundle",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Max Robson",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "Arnaut Danjuma",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "George Abbott",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Son Heung-Min",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Harry Kane",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Lucas Moura",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "Richarlison",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "Yago Alonso",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Will Lankshear",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "Jamie Donley",
+              "player_pos": "GK"
+              }
+          ]
+        },
+        {
+          "team_name": "Monaco",
+          "team_league": "ligue1",
+          "team_badge": "https://apiv3.apifootball.com/badges/3817_monaco.jpg",
+          "players": [
+            {
+              "player_name": "NÜBEL",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "DIDILLON",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "LIENARD",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "VANDERSON",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "MARIPaN",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "DISASI",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "HENRIQUE",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "JAKOBS",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "SARR",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "AGUILAR",
+              "player_pos": "RB"
+              },
+              {
+              "player_name": "MATSIMA",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "OKOU",
+              "player_pos": "CB"
+              },
+              {
+              "player_name": "CAMARA",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "LUCAS",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "MATAZO",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "GOLOVIN",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "MINAMINO",
+              "player_pos": "CAM"
+              },
+              {
+              "player_name": "FOFANA",
+              "player_pos": "CM"
+              },
+              {
+              "player_name": "AKLIOUCHE",
+              "player_pos": "LB"
+              },
+              {
+              "player_name": "DIATTA",
+              "player_pos": "RW"
+              },
+              {
+              "player_name": "MAGASSA",
+              "player_pos": "GK"
+              },
+              {
+              "player_name": "MARTINS",
+              "player_pos": "LW"
+              },
+              {
+              "player_name": "BOADU",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "BEN YEDDER",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "VOLLAND",
+              "player_pos": "ST"
+              },
+              {
+              "player_name": "EMBOLO",
+              "player_pos": "ST"
+              }
+          ]
+        }
+      ]
+}
